@@ -7,7 +7,7 @@ namespace ModeloDDD_AV2.Domain.Entities
     public class Processo
     {
         public int ProcessoId { get;  set; }
-        public StringBuilder RelatoFiscalizacao { get; set; }
+        public string RelatoFiscalizacao { get; set; }
         public DateTime DataRelato { get; set; }
         public string FiscalResponsavel { get; set; }
 
