@@ -1,0 +1,12 @@
+D:\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\bin\Debug\ModeloDDD_AV2.Infra.Data.dll.config
+D:\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\bin\Debug\ModeloDDD_AV2.Infra.Data.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\bin\Debug\ModeloDDD_AV2.Infra.Data.pdb
+D:\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\bin\Debug\EntityFramework.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\bin\Debug\ModeloDDD_AV2.Domain.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\bin\Debug\ModeloDDD_AV2.Domain.pdb
+D:\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\bin\Debug\EntityFramework.xml
+D:\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\obj\Debug\ModeloDDD_AV2.Infra.Data.csprojResolveAssemblyReference.cache
+D:\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\obj\Debug\ModeloDDD_AV2.Infra.Data.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\obj\Debug\ModeloDDD_AV2.Infra.Data.pdb
