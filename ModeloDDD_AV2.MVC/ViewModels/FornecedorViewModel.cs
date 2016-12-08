@@ -11,8 +11,10 @@ namespace ModeloDDD_AV2.MVC.ViewModels
 
         [Key]
         public int FornecedorId { get; set; }
-
-        [Required(ErrorMessage = "Preencha o campo Cnpj.")]
+        
+        [Required(ErrorMessage = "Preencha o campo CNPJ.")]
+        [MaxLength(14, ErrorMessage = "Máximo de {0} caracteres.")]
+        [RegularExpression(@"(^(\d{2}.\d{3}.\d{3}/\d{4}-\d{2})|(\d{14})$)", ErrorMessage = "O CNPJ deverá estar no formato 00.000.000/0000-00")] 
         public string Cnpj { get; set; }
 
         [Required(ErrorMessage = "Preencha o campo Razao Social.")]
