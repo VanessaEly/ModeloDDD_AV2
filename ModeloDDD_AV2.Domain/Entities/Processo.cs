@@ -1,6 +1,5 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Text;
 
 namespace ModeloDDD_AV2.Domain.Entities
 {

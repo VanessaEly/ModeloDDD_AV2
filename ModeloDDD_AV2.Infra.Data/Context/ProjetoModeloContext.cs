@@ -1,12 +1,9 @@
 ﻿using ModeloDDD_AV2.Domain.Entities;
 using ModeloDDD_AV2.Infra.Data.EntityConfig;
 using System;
-using System.Collections.Generic;
 using System.Data.Entity;
 using System.Data.Entity.ModelConfiguration.Conventions;
 using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace ModeloDDD_AV2.Infra.Data.Context
 {

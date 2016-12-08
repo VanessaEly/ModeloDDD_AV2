@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace ModeloDDD_AV2.Domain.Entities
+﻿namespace ModeloDDD_AV2.Domain.Entities
 {
     public class AutoDeInfracao
     {
