@@ -163,6 +163,7 @@
     <Compile Include="AutoMapper\AutoMapperConfig.cs" />
     <Compile Include="AutoMapper\DomainToViewModelMappingProfile.cs" />
     <Compile Include="AutoMapper\ViewToDomainMappingProfile.cs" />
+    <Compile Include="Controllers\FornecedorController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ProdutosController.cs" />
     <Compile Include="Global.asax.cs">
@@ -216,6 +217,7 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Views\Fornecedor\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />
@@ -226,6 +228,10 @@
     <Content Include="Scripts\jquery-1.10.2.min.map" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\ModeloDDD_AV2.Application\ModeloDDD_AV2.Application.csproj">
+      <Project>{703ddd4b-6f6d-490a-be96-efa51b8efb98}</Project>
+      <Name>ModeloDDD_AV2.Application</Name>
+    </ProjectReference>
     <ProjectReference Include="..\ModeloDDD_AV2.Domain\ModeloDDD_AV2.Domain.csproj">
       <Project>{69f364f1-982f-4a14-9b16-9340dcd72a97}</Project>
       <Name>ModeloDDD_AV2.Domain</Name>
