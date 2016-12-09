@@ -1,0 +1,202 @@
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\ApplicationInsights.config
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\roslyn\csc.exe
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\roslyn\vbc.exe
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\ModeloDDD_AV2.MVC.dll.config
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\ModeloDDD_AV2.MVC.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\ModeloDDD_AV2.MVC.pdb
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Antlr3.Runtime.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\AutoMapper.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\EntityFramework.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\EntityFramework.SqlServer.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.AI.Web.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\ModeloDDD_AV2.Application.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\ModeloDDD_AV2.Domain.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Newtonsoft.Json.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\System.Web.Helpers.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\System.Web.Mvc.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\System.Web.Optimization.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\System.Web.Razor.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\System.Web.WebPages.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\WebGrease.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\ModeloDDD_AV2.Application.pdb
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\ModeloDDD_AV2.Domain.pdb
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\AutoMapper.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\EntityFramework.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\EntityFramework.SqlServer.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.AI.Web.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\System.Web.Helpers.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\System.Web.Mvc.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\System.Web.Optimization.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\System.Web.Razor.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\System.Web.WebPages.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Antlr3.Runtime.pdb
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Newtonsoft.Json.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\obj\Debug\ModeloDDD_AV2.MVC.csprojResolveAssemblyReference.cache
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\obj\Debug\ModeloDDD_AV2.MVC.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\obj\Debug\ModeloDDD_AV2.MVC.pdb
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\ModeloDDD_AV2.Infra.Data.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\ModeloDDD_AV2.Infra.Data.pdb
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\ApplicationInsights.config
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\roslyn\csc.exe
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\roslyn\System.Collections.Immutable.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\roslyn\System.Reflection.Metadata.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\roslyn\vbc.exe
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\roslyn\VBCSCompiler.exe
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\roslyn\VBCSCompiler.exe.config
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\ModeloDDD_AV2.MVC.dll.config
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\ModeloDDD_AV2.MVC.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\ModeloDDD_AV2.MVC.pdb
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Antlr3.Runtime.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\AutoMapper.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\EntityFramework.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\EntityFramework.SqlServer.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.AI.DependencyCollector.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.AI.Web.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.AI.WindowsServer.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.ApplicationInsights.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\ModeloDDD_AV2.Application.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\ModeloDDD_AV2.Domain.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\ModeloDDD_AV2.Infra.Data.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Newtonsoft.Json.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\System.Web.Helpers.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\System.Web.Mvc.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\System.Web.Optimization.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\System.Web.Razor.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\System.Web.WebPages.Deployment.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\System.Web.WebPages.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\System.Web.WebPages.Razor.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\WebGrease.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\ModeloDDD_AV2.Application.pdb
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\ModeloDDD_AV2.Domain.pdb
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\ModeloDDD_AV2.Infra.Data.pdb
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\AutoMapper.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\EntityFramework.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\EntityFramework.SqlServer.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.AI.DependencyCollector.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.AI.Web.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.AI.WindowsServer.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.ApplicationInsights.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\System.Web.Helpers.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\System.Web.Mvc.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\System.Web.Optimization.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\System.Web.Razor.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\System.Web.WebPages.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\System.Web.WebPages.Deployment.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\System.Web.WebPages.Razor.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Antlr3.Runtime.pdb
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\bin\Newtonsoft.Json.xml
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\obj\Debug\ModeloDDD_AV2.MVC.csprojResolveAssemblyReference.cache
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\obj\Debug\ModeloDDD_AV2.MVC.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv 1207 1917\ModeloDDD_AV2-devv\ModeloDDD_AV2.MVC\obj\Debug\ModeloDDD_AV2.MVC.pdb
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\ApplicationInsights.config
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\roslyn\csc.exe
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\roslyn\System.Collections.Immutable.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\roslyn\System.Reflection.Metadata.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\roslyn\vbc.exe
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\roslyn\VBCSCompiler.exe
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\roslyn\VBCSCompiler.exe.config
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\ModeloDDD_AV2.MVC.dll.config
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\ModeloDDD_AV2.MVC.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\ModeloDDD_AV2.MVC.pdb
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\Antlr3.Runtime.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\AutoMapper.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\EntityFramework.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\EntityFramework.SqlServer.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\Microsoft.AI.DependencyCollector.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\Microsoft.AI.Web.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\Microsoft.AI.WindowsServer.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\Microsoft.ApplicationInsights.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\Microsoft.Web.Infrastructure.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\ModeloDDD_AV2.Application.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\ModeloDDD_AV2.Domain.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\ModeloDDD_AV2.Infra.Data.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\Newtonsoft.Json.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\Ninject.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\Ninject.Web.Common.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\Ninject.Web.Mvc.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\System.Web.Helpers.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\System.Web.Mvc.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\System.Web.Optimization.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\System.Web.Razor.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\System.Web.WebPages.Deployment.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\System.Web.WebPages.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\System.Web.WebPages.Razor.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\WebActivatorEx.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\WebGrease.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\ModeloDDD_AV2.Application.pdb
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\ModeloDDD_AV2.Domain.pdb
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\ModeloDDD_AV2.Infra.Data.pdb
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\AutoMapper.xml
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\EntityFramework.xml
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\EntityFramework.SqlServer.xml
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\Microsoft.AI.DependencyCollector.xml
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\Microsoft.AI.Web.xml
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\Microsoft.AI.WindowsServer.xml
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\Microsoft.ApplicationInsights.xml
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\Ninject.xml
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\Ninject.Web.Common.xml
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\Ninject.Web.Mvc.xml
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\System.Web.Helpers.xml
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\System.Web.Mvc.xml
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\System.Web.Optimization.xml
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\System.Web.Razor.xml
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\System.Web.WebPages.xml
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\System.Web.WebPages.Deployment.xml
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\System.Web.WebPages.Razor.xml
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\Antlr3.Runtime.pdb
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\bin\Newtonsoft.Json.xml
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\obj\Debug\ModeloDDD_AV2.MVC.csprojResolveAssemblyReference.cache
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\obj\Debug\ModeloDDD_AV2.MVC.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.MVC\obj\Debug\ModeloDDD_AV2.MVC.pdb

@@ -1,0 +1,58 @@
+﻿@model ModeloDDD_AV2.MVC.ViewModels.AutoDeInfracaoViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>AutoDeInfracaoViewModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Gravidade)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Gravidade)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Atenuante)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Atenuante)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Agravante)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Agravante)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Multa)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Multa)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.ProcessoId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.ProcessoId)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.AutoDeInfracaoId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

@@ -1,0 +1,42 @@
+﻿@model ModeloDDD_AV2.MVC.ViewModels.ProcessoViewModel
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>ProcessoViewModel</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.RelatoFiscalizacao)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.RelatoFiscalizacao)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FiscalResponsavel)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FiscalResponsavel)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FornecedorId)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FornecedorId)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Edit", "Edit", new { id = Model.ProcessoId }) |
+    @Html.ActionLink("Back to List", "Index")
+</p>

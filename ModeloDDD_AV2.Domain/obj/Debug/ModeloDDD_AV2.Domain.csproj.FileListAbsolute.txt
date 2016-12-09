@@ -1,0 +1,10 @@
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.Domain\bin\Debug\ModeloDDD_AV2.Domain.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.Domain\bin\Debug\ModeloDDD_AV2.Domain.pdb
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.Domain\obj\Debug\ModeloDDD_AV2.Domain.csprojResolveAssemblyReference.cache
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.Domain\obj\Debug\ModeloDDD_AV2.Domain.dll
+C:\Visual Studio 2015\LocalGitRepository\ModeloDDD_AV2-devv\ModeloDDD_AV2-devv\ModeloDDD_AV2.Domain\obj\Debug\ModeloDDD_AV2.Domain.pdb
+D:\ModeloDDD_AV2\ModeloDDD_AV2.Domain\bin\Debug\ModeloDDD_AV2.Domain.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.Domain\bin\Debug\ModeloDDD_AV2.Domain.pdb
+D:\ModeloDDD_AV2\ModeloDDD_AV2.Domain\obj\Debug\ModeloDDD_AV2.Domain.csprojResolveAssemblyReference.cache
+D:\ModeloDDD_AV2\ModeloDDD_AV2.Domain\obj\Debug\ModeloDDD_AV2.Domain.dll
+D:\ModeloDDD_AV2\ModeloDDD_AV2.Domain\obj\Debug\ModeloDDD_AV2.Domain.pdb
