@@ -12,3 +12,10 @@ D:\ModeloDDD_AV2\ModeloDDD_AV2.Application\bin\Debug\ModeloDDD_AV2.Domain.pdb
 D:\ModeloDDD_AV2\ModeloDDD_AV2.Application\obj\Debug\ModeloDDD_AV2.Application.csprojResolveAssemblyReference.cache
 D:\ModeloDDD_AV2\ModeloDDD_AV2.Application\obj\Debug\ModeloDDD_AV2.Application.dll
 D:\ModeloDDD_AV2\ModeloDDD_AV2.Application\obj\Debug\ModeloDDD_AV2.Application.pdb
+C:\Visual Studio 2015\ModeloDDD_AV2\ModeloDDD_AV2.Application\bin\Debug\ModeloDDD_AV2.Application.dll
+C:\Visual Studio 2015\ModeloDDD_AV2\ModeloDDD_AV2.Application\bin\Debug\ModeloDDD_AV2.Application.pdb
+C:\Visual Studio 2015\ModeloDDD_AV2\ModeloDDD_AV2.Application\bin\Debug\ModeloDDD_AV2.Domain.dll
+C:\Visual Studio 2015\ModeloDDD_AV2\ModeloDDD_AV2.Application\bin\Debug\ModeloDDD_AV2.Domain.pdb
+C:\Visual Studio 2015\ModeloDDD_AV2\ModeloDDD_AV2.Application\obj\Debug\ModeloDDD_AV2.Application.csprojResolveAssemblyReference.cache
+C:\Visual Studio 2015\ModeloDDD_AV2\ModeloDDD_AV2.Application\obj\Debug\ModeloDDD_AV2.Application.dll
+C:\Visual Studio 2015\ModeloDDD_AV2\ModeloDDD_AV2.Application\obj\Debug\ModeloDDD_AV2.Application.pdb

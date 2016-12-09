@@ -18,7 +18,7 @@
         <div class="form-group">
             @Html.LabelFor(model => model.Cnpj, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @Html.EditorFor(model => model.Cnpj, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.EditorFor(model => model.Cnpj, new { htmlAttributes = new { @id= "cnpj", @class = "form-control" } })
                 @Html.ValidationMessageFor(model => model.Cnpj, "", new { @class = "text-danger" })
             </div>
         </div>
@@ -34,7 +34,7 @@
         <div class="form-group">
             @Html.LabelFor(model => model.InscricaoMunicipal, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @Html.EditorFor(model => model.InscricaoMunicipal, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.EditorFor(model => model.InscricaoMunicipal, new { htmlAttributes = new { @id = "insc", @class = "form-control" } })
                 @Html.ValidationMessageFor(model => model.InscricaoMunicipal, "", new { @class = "text-danger" })
             </div>
         </div>
@@ -42,7 +42,7 @@
         <div class="form-group">
             @Html.LabelFor(model => model.ReceitaBruta, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @Html.EditorFor(model => model.ReceitaBruta, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.EditorFor(model => model.ReceitaBruta, new { htmlAttributes = new { @id = "receita", @class = "form-control" } })
                 @Html.ValidationMessageFor(model => model.ReceitaBruta, "", new { @class = "text-danger" })
             </div>
         </div>
@@ -60,5 +60,18 @@
 </div>
 
 @section Scripts {
+
+    <script>
+        $(document).ready(function ()
+        {
+            $("#cnpj").inputmask("mask", { "mask": "99.999.999/9999-99" }, { reverse: true });
+            $("#valor").inputmask("mask", { "mask": "#.##9,99" }, { reverse: true });
+            $("#receita").inputmask("mask", { "mask": "9.999.999,99" }, { reverse: true });
+            $("#insc").inputmask("mask", { "mask": "9.999.999-9" }, { reverse: true });
+            $("#cep").inputmask("mask", { "mask": "99999-999" });
+            });
+    </script>
+
+
     @Scripts.Render("~/bundles/jqueryval")
 }
