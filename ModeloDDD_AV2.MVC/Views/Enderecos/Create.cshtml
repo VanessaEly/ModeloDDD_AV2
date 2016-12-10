@@ -57,7 +57,7 @@
         <div class="form-group">
             @Html.LabelFor(model => model.Cep, htmlAttributes: new { @class = "control-label col-md-2" })
             <div class="col-md-10">
-                @Html.EditorFor(model => model.Cep, new { htmlAttributes = new { @class = "form-control" } })
+                @Html.EditorFor(model => model.Cep, new { htmlAttributes = new { @id = "cep", @class = "form-control" } })
                 @Html.ValidationMessageFor(model => model.Cep, "", new { @class = "text-danger" })
             </div>
         </div>
@@ -89,3 +89,16 @@
 <div>
     @Html.ActionLink("Back to List", "Index")
 </div>
+
+@section Scripts {
+
+    <script>
+        $(document).ready(function ()
+        {
+            ("#cep").inputmask("mask", { "mask": "99999-999" });
+            });
+    </script>
+
+
+    @Scripts.Render("~/bundles/jqueryval")
+}

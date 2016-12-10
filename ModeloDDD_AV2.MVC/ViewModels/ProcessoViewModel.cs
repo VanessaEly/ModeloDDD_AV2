@@ -13,7 +13,7 @@ namespace ModeloDDD_AV2.MVC.ViewModels
         public int ProcessoId { get; set; }
 
         [Required(ErrorMessage = "Preencha um Valor para a Data de Relato.")]
-        [ScaffoldColumn(false)]
+        //[ScaffoldColumn(false)]
         public DateTime DataRelato { get; set; }
 
         [Required(ErrorMessage = "Preencha o relato de fiscalização.")]

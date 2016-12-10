@@ -30,9 +30,9 @@ namespace ModeloDDD_AV2.MVC.ViewModels
         public string Municipio { get; set; }
 
         [Required(ErrorMessage = "Preencha o campo CEP.")]
-        [MinLength(8, ErrorMessage = "Mínimo de {0} caracteres.")]
-        [MaxLength(8, ErrorMessage = "Máximo de {0} caracteres.")]
-        [RegularExpression(@"^\d{5}-\d{3}$", ErrorMessage = "O CEP deverá estar no formato 00000-000")]
+        [MinLength(9, ErrorMessage = "Mínimo de {0} caracteres.")]
+        [MaxLength(9, ErrorMessage = "Máximo de {0} caracteres.")]
+        [RegularExpression(@"(^(\d{5}-\d{3})|(\d{8})$)", ErrorMessage = "O CEP deverá estar no formato 00000-000")]
         public string Cep { get; set; }
 
         //Deverá ser uma combox contendo as siglas dos estados Brasileiros. Poderá ser feito com um ENUM ou uma Tabela no banco de dados
