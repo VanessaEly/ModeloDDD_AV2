@@ -7,10 +7,13 @@
 <h2>Index</h2>
 
 <p>
-    @Html.ActionLink("Create New", "Create")
+    @Html.ActionLink("Criar Novo Processo", "Create")
 </p>
 <table class="table">
     <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.ProcessoId)
+        </th>
         <th>
             @Html.DisplayNameFor(model => model.DataRelato)
         </th>
@@ -29,6 +32,9 @@
 @foreach (var item in Model) {
     <tr>
         <td>
+            @Html.DisplayFor(modelItem => item.ProcessoId)
+        </td>
+        <td>
             @Html.DisplayFor(modelItem => item.DataRelato)
         </td>
         <td>
@@ -41,9 +47,10 @@
             @Html.DisplayFor(modelItem => item.FornecedorId)
         </td>
         <td>
-            @Html.ActionLink("Edit", "Edit", new { id=item.ProcessoId }) |
-            @Html.ActionLink("Details", "Details", new { id=item.ProcessoId }) |
-            @Html.ActionLink("Delete", "Delete", new { id=item.ProcessoId })
+            @Html.ActionLink("Editar", "Edit", new { id=item.ProcessoId }) |
+            @Html.ActionLink("Detalhes", "Details", new { id=item.ProcessoId }) |
+            @Html.ActionLink("Deletar", "Delete", new { id=item.ProcessoId }) |
+            @Html.ActionLink("Gerar Auto De Infração", "Create", "AutoDeInfracao")
         </td>
     </tr>
 }

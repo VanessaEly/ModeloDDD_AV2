@@ -10,14 +10,16 @@ namespace ModeloDDD_AV2.MVC.Controllers
     public class AutoDeInfracaoController : Controller
     {
         private readonly IAutoDeInfracaoAppService _autoDeInfracaoApp;
+        private readonly IProcessoAppService _processoApp;
 
         public AutoDeInfracaoController()
         {
         }
 
-        public AutoDeInfracaoController(IAutoDeInfracaoAppService autoDeInfracaoApp)
+        public AutoDeInfracaoController(IAutoDeInfracaoAppService autoDeInfracaoApp, IProcessoAppService processoApp)
         {
             _autoDeInfracaoApp = autoDeInfracaoApp;
+            _processoApp = processoApp;
         }
 
         // GET: AutoDeInfracao
@@ -38,6 +40,7 @@ namespace ModeloDDD_AV2.MVC.Controllers
         // GET: AutoDeInfracao/Create
         public ActionResult Create()
         {
+            ViewBag.ProcessoId = new SelectList(_processoApp.GetAll(), "ProcessoId", "RelatoFiscalicao");
             return View();
         }
 
@@ -57,6 +60,9 @@ namespace ModeloDDD_AV2.MVC.Controllers
         {
             var autoDeInfracao = _autoDeInfracaoApp.GetById(id);
             var autoDeInfracaoViewModel = Mapper.Map<AutoDeInfracao, AutoDeInfracaoViewModel>(autoDeInfracao);
+
+            ViewBag.ProcessoId = new SelectList(_processoApp.GetAll(), "ProcessoId", "RelatoFiscalizacao", autoDeInfracaoViewModel.ProcessoId);
+
             return View(autoDeInfracaoViewModel);
         }
 
@@ -72,6 +78,8 @@ namespace ModeloDDD_AV2.MVC.Controllers
                 return RedirectToAction("Index");
 
             }
+
+            ViewBag.ProcessoId = new SelectList(_processoApp.GetAll(), "ProcessoId", "RelatoFiscalizacao", autoDeInfracao.ProcessoId);
             return View(autoDeInfracao);
         }
 

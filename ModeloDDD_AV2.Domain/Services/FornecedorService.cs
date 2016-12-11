@@ -12,5 +12,9 @@ namespace ModeloDDD_AV2.Domain.Services
         {
             _fornecedorRepository = fornecedorRepository;
         }
+        public Fornecedor BuscarPorCnpj(string cnpj)
+        {
+            return _fornecedorRepository.BuscarPorCnpj(cnpj);
+        }
     }
 }

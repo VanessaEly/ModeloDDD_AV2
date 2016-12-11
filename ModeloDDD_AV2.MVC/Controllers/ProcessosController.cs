@@ -10,14 +10,13 @@ namespace ModeloDDD_AV2.MVC.Controllers
     public class ProcessosController : Controller
     {
         private readonly IProcessoAppService _processoApp;
+        private readonly IFornecedorAppService _fornecedorApp;
 
-        public ProcessosController()
-        {
-        }
 
-        public ProcessosController(IProcessoAppService processoApp)
+        public ProcessosController(IProcessoAppService processoApp, IFornecedorAppService fornecedorApp)
         {
             _processoApp = processoApp;
+            _fornecedorApp = fornecedorApp;
         }
 
         // GET: Processo
@@ -36,8 +35,30 @@ namespace ModeloDDD_AV2.MVC.Controllers
         }
 
         // GET: Processo/Create
-        public ActionResult Create()
+        public ActionResult Create(string PesquisaCnpj = "")
         {
+            
+            if (!string.IsNullOrEmpty(PesquisaCnpj))
+            {
+                Fornecedor fornecedor = _fornecedorApp.BuscarPorCnpj(PesquisaCnpj);                
+
+                if (fornecedor != null)
+                {
+                    ProcessoViewModel procViewModel = new ProcessoViewModel();
+                    procViewModel.Cnpj = PesquisaCnpj;
+                    procViewModel.FornecedorId = fornecedor.FornecedorId;
+                    ViewBag.FornecedorId = fornecedor.FornecedorId;
+                    procViewModel.RazaoSocial = fornecedor.RazaoSocial;
+                    procViewModel.InscricaoMunicipal = fornecedor.InscricaoMunicipal;
+                    return View(procViewModel);
+                }
+                else
+                {
+                    ProcessoViewModel procViewModel = new ProcessoViewModel();
+                    procViewModel.Cnpj = "CNPJ NÃO ENCONTRADO";
+                    return View(procViewModel);
+                }
+            }
             return View();
         }
 
@@ -56,6 +77,7 @@ namespace ModeloDDD_AV2.MVC.Controllers
         public ActionResult Edit(int id)
         {
             var processo = _processoApp.GetById(id);
+            processo.Fornecedor = _fornecedorApp.GetById(processo.FornecedorId);
             var processoViewModel = Mapper.Map<Processo, ProcessoViewModel>(processo);
             return View(processoViewModel);
         }

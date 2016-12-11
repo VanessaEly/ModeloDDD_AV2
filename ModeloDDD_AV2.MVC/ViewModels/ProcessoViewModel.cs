@@ -12,6 +12,11 @@ namespace ModeloDDD_AV2.MVC.ViewModels
         [Key]
         public int ProcessoId { get; set; }
 
+        [Required(ErrorMessage = "Pesquise um CNPJ válido")]
+        public string Cnpj{ get; set; }
+        public string RazaoSocial { get; set; }
+        public string InscricaoMunicipal { get; set; }
+
         [Required(ErrorMessage = "Preencha um Valor para a Data de Relato.")]
         //[ScaffoldColumn(false)]
         public DateTime DataRelato { get; set; }

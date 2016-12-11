@@ -34,3 +34,15 @@ C:\Visual Studio 2015\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\bin\Debug\EntityFra
 C:\Visual Studio 2015\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\obj\Debug\ModeloDDD_AV2.Infra.Data.csprojResolveAssemblyReference.cache
 C:\Visual Studio 2015\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\obj\Debug\ModeloDDD_AV2.Infra.Data.dll
 C:\Visual Studio 2015\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\obj\Debug\ModeloDDD_AV2.Infra.Data.pdb
+C:\Users\vanes\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\bin\Debug\ModeloDDD_AV2.Infra.Data.dll.config
+C:\Users\vanes\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\bin\Debug\ModeloDDD_AV2.Infra.Data.dll
+C:\Users\vanes\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\bin\Debug\ModeloDDD_AV2.Infra.Data.pdb
+C:\Users\vanes\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\bin\Debug\EntityFramework.dll
+C:\Users\vanes\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vanes\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\bin\Debug\ModeloDDD_AV2.Domain.dll
+C:\Users\vanes\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\bin\Debug\ModeloDDD_AV2.Domain.pdb
+C:\Users\vanes\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\bin\Debug\EntityFramework.xml
+C:\Users\vanes\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vanes\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\obj\Debug\ModeloDDD_AV2.Infra.Data.csprojResolveAssemblyReference.cache
+C:\Users\vanes\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\obj\Debug\ModeloDDD_AV2.Infra.Data.dll
+C:\Users\vanes\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\obj\Debug\ModeloDDD_AV2.Infra.Data.pdb

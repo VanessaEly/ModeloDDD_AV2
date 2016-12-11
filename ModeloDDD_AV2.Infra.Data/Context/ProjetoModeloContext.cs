@@ -54,7 +54,7 @@ namespace ModeloDDD_AV2.Infra.Data.Context
 
         public DbSet<AutoDeInfracao> AutoDeInfracoes { get; set; }
         public DbSet<Endereco> Enderecos { get; set; }
-        public DbSet<Fornecedor> Forcenedores { get; set; }
+        public DbSet<Fornecedor> Fornecedores { get; set; }
         public DbSet<Processo> Processos { get; set; }
         public DbSet<Produto> Produtos { get; set; }
 

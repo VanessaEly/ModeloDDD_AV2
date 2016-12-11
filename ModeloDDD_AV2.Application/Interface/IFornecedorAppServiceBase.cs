@@ -9,6 +9,6 @@ namespace ModeloDDD_AV2.Application.Interface
 {
     public interface IFornecedorAppService : IAppServiceBase<Fornecedor>
     {
-
+        Fornecedor BuscarPorCnpj(string cnpj);
     }
 }

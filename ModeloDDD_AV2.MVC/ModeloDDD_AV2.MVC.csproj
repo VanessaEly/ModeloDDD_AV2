@@ -182,7 +182,7 @@
     <Compile Include="AutoMapper\ViewToDomainMappingProfile.cs" />
     <Compile Include="Controllers\AutoDeInfracaoController.cs" />
     <Compile Include="Controllers\EnderecosController.cs" />
-    <Compile Include="Controllers\FonecedoresController.cs" />
+    <Compile Include="Controllers\FornecedoresController.cs" />
     <Compile Include="Controllers\HomeController.cs" />
     <Compile Include="Controllers\ProcessosController.cs" />
     <Compile Include="Controllers\ProdutosController.cs" />
