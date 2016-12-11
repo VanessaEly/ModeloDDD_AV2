@@ -57,6 +57,10 @@
     <Compile Include="EntityConfig\FornecedorConfiguration.cs" />
     <Compile Include="EntityConfig\ProcessoConfiguration.cs" />
     <Compile Include="EntityConfig\ProdutoContiguration.cs" />
+    <Compile Include="Migrations\201612112150271_MaisICollections.cs" />
+    <Compile Include="Migrations\201612112150271_MaisICollections.Designer.cs">
+      <DependentUpon>201612112150271_MaisICollections.cs</DependentUpon>
+    </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repositories\AutoDeInfracaoRepository.cs" />
@@ -76,7 +80,11 @@
       <Name>ModeloDDD_AV2.Domain</Name>
     </ProjectReference>
   </ItemGroup>
-  <ItemGroup />
+  <ItemGroup>
+    <EmbeddedResource Include="Migrations\201612112150271_MaisICollections.resx">
+      <DependentUpon>201612112150271_MaisICollections.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
        Other similar extension points exist, see Microsoft.Common.targets.

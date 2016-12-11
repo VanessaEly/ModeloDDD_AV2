@@ -31,7 +31,7 @@ namespace ModeloDDD_AV2.MVC.ViewModels
         public int FornecedorId { get; set; }
 
         public virtual FornecedorViewModel Fornecedor { get; set; }
-        public virtual IEnumerable<AutoDeInfracaoViewModel> AutosDeInfracao { get; set; }
+        public virtual ICollection<AutoDeInfracaoViewModel> AutosDeInfracao { get; set; }
 
     }
 }

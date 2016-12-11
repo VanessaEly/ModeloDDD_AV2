@@ -11,8 +11,8 @@ namespace ModeloDDD_AV2.Domain.Entities
         public string InscricaoMunicipal { get; set; }
         public decimal ReceitaBruta { get; set; }
 
-        public virtual IEnumerable<Processo> Processos { get; set; }
-        public virtual IEnumerable<Produto> Produtos { get; set; }
-        public virtual IEnumerable<Endereco> Enderecos { get; set; }
+        public virtual ICollection<Processo> Processos { get; set; }
+        public virtual ICollection<Produto> Produtos { get; set; }
+        public virtual ICollection<Endereco> Enderecos { get; set; }
     }
 }

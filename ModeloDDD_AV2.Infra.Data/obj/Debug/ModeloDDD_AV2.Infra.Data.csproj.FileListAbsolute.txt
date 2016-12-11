@@ -46,3 +46,5 @@ C:\Users\vanes\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\bin\Debug\EntityFramework.
 C:\Users\vanes\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\obj\Debug\ModeloDDD_AV2.Infra.Data.csprojResolveAssemblyReference.cache
 C:\Users\vanes\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\obj\Debug\ModeloDDD_AV2.Infra.Data.dll
 C:\Users\vanes\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\obj\Debug\ModeloDDD_AV2.Infra.Data.pdb
+C:\Visual Studio 2015\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\obj\Debug\ModeloDDD_AV2.Infra.Data.Migrations.MaisICollections.resources
+C:\Visual Studio 2015\ModeloDDD_AV2\ModeloDDD_AV2.Infra.Data\obj\Debug\ModeloDDD_AV2.Infra.Data.csproj.GenerateResource.Cache

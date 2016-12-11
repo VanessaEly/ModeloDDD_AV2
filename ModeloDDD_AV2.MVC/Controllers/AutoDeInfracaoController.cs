@@ -40,7 +40,7 @@ namespace ModeloDDD_AV2.MVC.Controllers
         // GET: AutoDeInfracao/Create
         public ActionResult Create()
         {
-            ViewBag.ProcessoId = new SelectList(_processoApp.GetAll(), "ProcessoId", "RelatoFiscalicao");
+            ViewBag.ProcessoId = new SelectList(_processoApp.GetAll(), "ProcessoId", "RelatoFiscalizacao");
             return View();
         }
 

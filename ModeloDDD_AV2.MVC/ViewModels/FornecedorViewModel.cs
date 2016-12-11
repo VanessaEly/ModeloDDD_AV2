@@ -30,8 +30,8 @@ namespace ModeloDDD_AV2.MVC.ViewModels
         public decimal ReceitaBruta { get; set; }
 
 
-        public virtual IEnumerable<ProcessoViewModel> Processos { get; set; }
-        public virtual IEnumerable<ProdutoViewModel> Produtos { get; set; }
-        public virtual IEnumerable<EnderecoViewModel> Enderecos { get; set; }
+        public virtual ICollection<ProcessoViewModel> Processos { get; set; }
+        public virtual ICollection<ProdutoViewModel> Produtos { get; set; }
+        public virtual ICollection<EnderecoViewModel> Enderecos { get; set; }
     }
 }

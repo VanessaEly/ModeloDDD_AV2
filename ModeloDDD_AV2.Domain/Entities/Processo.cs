@@ -18,6 +18,6 @@ namespace ModeloDDD_AV2.Domain.Entities
         public int FornecedorId { get; set; }
         public virtual Fornecedor Fornecedor { get; set; }
 
-        public virtual IEnumerable<AutoDeInfracao> AutosDeInfracao { get; set; }
+        public virtual ICollection<AutoDeInfracao> AutosDeInfracao { get; set; }
     }
 }

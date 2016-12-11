@@ -48,8 +48,9 @@ namespace ModeloDDD_AV2.MVC.Controllers
         {
             var fornecedorDomain = Mapper.Map<FornecedorViewModel, Fornecedor>(fornecedor);
             var enderecoDomain = Mapper.Map<EnderecoViewModel, Endereco>(endereco);
+
+            fornecedorDomain.Enderecos.Add(enderecoDomain);
             _fornecedorApp.Add(fornecedorDomain);
-            // TODO duvida: Como vai ser add o endereco no create do Fornecedor ????????????
 
             return RedirectToAction("Index");
         }
