@@ -52,7 +52,7 @@ namespace ModeloDDD_AV2.MVC.Controllers
             fornecedorDomain.Enderecos.Add(enderecoDomain);
             _fornecedorApp.Add(fornecedorDomain);
 
-            return RedirectToAction("Index");
+            return RedirectToAction("Details");
         }
 
         // GET: Fornecedor/Edit/5

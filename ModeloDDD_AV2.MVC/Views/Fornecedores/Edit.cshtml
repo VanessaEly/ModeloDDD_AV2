@@ -1,10 +1,10 @@
 ﻿@model ModeloDDD_AV2.MVC.ViewModels.FornecedorViewModel
 
 @{
-    ViewBag.Title = "Editar Fornecedor";
+    ViewBag.Title = "Fornecedor";
 }
 
-<h2>Edit</h2>
+<h2>Editar Fornecedor</h2>
 
 
 @using (Html.BeginForm())
@@ -12,7 +12,7 @@
     @Html.AntiForgeryToken()
     
     <div class="form-horizontal">
-        <h4>FornecedorViewModel</h4>
+        <!--<h4>FornecedorViewModel</h4>-->
         <hr />
         @Html.ValidationSummary(true, "", new { @class = "text-danger" })
         @Html.HiddenFor(model => model.FornecedorId)
@@ -58,7 +58,7 @@
 }
 
 <div>
-    @Html.ActionLink("Back to List", "Index")
+    @Html.ActionLink("Retornar à Lista", "Index")
 </div>
 
 @section Scripts {

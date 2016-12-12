@@ -1,10 +1,10 @@
 ﻿@model IEnumerable<ModeloDDD_AV2.MVC.ViewModels.FornecedorViewModel>
 
 @{
-    ViewBag.Title = "Index";
+    ViewBag.Title = "Listagem de Fornecedores";
 }
 
-<h2>Index</h2>
+<h2>Listagem de Fornecedores</h2>
 
 <p>
     @Html.ActionLink("Criar Novo Fornecedor", "Create")
@@ -48,7 +48,7 @@
         </td>
         <td>
             @Html.ActionLink("Editar", "Edit", new { id=item.FornecedorId }) |
-            @Html.ActionLink("Detalhes", "Details", new { id=item.FornecedorId }) |
+            @Html.ActionLink("Detalhar", "Details", new { id=item.FornecedorId }) |
             @Html.ActionLink("Deletar", "Delete", new { id=item.FornecedorId })
         </td>
     </tr>

@@ -1,13 +1,13 @@
 ﻿@model ModeloDDD_AV2.MVC.ViewModels.FornecedorViewModel
 
 @{
-    ViewBag.Title = "Details";
+    ViewBag.Title = "Fornecedor";
 }
 
-<h2>Details</h2>
+<h2>Detalhes do Fornecedor</h2>
 
 <div>
-    <h4>FornecedorViewModel</h4>
+    <!--<h4>FornecedorViewModel</h4>-->
     <hr />
     <dl class="dl-horizontal">
         <dt>
@@ -45,6 +45,6 @@
     </dl>
 </div>
 <p>
-    @Html.ActionLink("Edit", "Edit", new { id = Model.FornecedorId }) |
-    @Html.ActionLink("Back to List", "Index")
+    @Html.ActionLink("Editar", "Edit", new { id = Model.FornecedorId }) |
+    @Html.ActionLink("Retornar à lista", "Index")
 </p>
