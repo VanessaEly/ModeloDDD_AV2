@@ -5,6 +5,6 @@ namespace ModeloDDD_AV2.Infra.Data.Repositories
 {
     public class AutoDeInfracaoRepository : RepositoryBase<AutoDeInfracao>, IAutoDeInfracaoRepository
     {
-
+     
     }
 }

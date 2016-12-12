@@ -6,11 +6,16 @@ namespace ModeloDDD_AV2.Domain.Services
 {
     public class AutoDeInfracaoService : ServiceBase<AutoDeInfracao>, IAutoDeInfracaoService
     {
-        private readonly IAutoDeInfracaoRepository _autoDeInfracaoRepository;
+        private  IAutoDeInfracaoRepository _autoDeInfracaoRepository;
 
         public AutoDeInfracaoService(IAutoDeInfracaoRepository autoDeInfracaoRepository) : base(autoDeInfracaoRepository)
         {
             _autoDeInfracaoRepository = autoDeInfracaoRepository;
+        }
+
+        public decimal CalcularMulta(AutoDeInfracao autoDeInfracao, Fornecedor fornecedor)
+        {
+            return autoDeInfracao.CalculoMulta(autoDeInfracao, fornecedor);
         }
     }
 }
