@@ -18,9 +18,10 @@ namespace ModeloDDD_AV2.Domain.Entities
         public int ProcessoId { get; set; }
         public virtual Processo Processo { get; set; }
 
-        public decimal CalcularMulta(AutoDeInfracao autoDeInfracao, Fornecedor fornecedor)
+        public decimal CalculoMulta(AutoDeInfracao autoDeInfracao, Fornecedor fornecedor)
         {
             const decimal PB = 500m;
+            const decimal UFIR = 3.00m;
             decimal Ag;
             decimal At;
 
@@ -43,7 +44,7 @@ namespace ModeloDDD_AV2.Domain.Entities
                 At = 1m;
             }
 
-            autoDeInfracao.Multa = (PB + (((fornecedor.ReceitaBruta - 120000m) * 0.10m) + 120000m) * (3.00m * (Ag + At) * autoDeInfracao.Gravidade));
+            autoDeInfracao.Multa = (PB + (((fornecedor.ReceitaBruta - 120000m) * 0.10m) + 120000m) * (UFIR * (Ag + At) * autoDeInfracao.Gravidade));
 
             return autoDeInfracao.Multa;
 
