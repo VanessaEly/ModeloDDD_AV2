@@ -1,10 +1,10 @@
 ﻿@model IEnumerable<ModeloDDD_AV2.MVC.ViewModels.AutoDeInfracaoViewModel>
 
 @{
-    ViewBag.Title = "Index";
+    ViewBag.Title = "Auto de Infração";
 }
 
-<h2>Index</h2>
+<h2>Listagem de Autos de Infrações</h2>
 
 <p>
     @Html.ActionLink("Criar Novo Auto de Infração", "Create")
@@ -48,8 +48,8 @@
         </td>
         <td>
             @Html.ActionLink("Editar", "Edit", new { id=item.AutoDeInfracaoId }) |
-            @Html.ActionLink("Detalhes", "Details", new { id=item.AutoDeInfracaoId }) |
-            @Html.ActionLink("Deletar", "Delete", new { id=item.AutoDeInfracaoId })
+            @Html.ActionLink("Detalhar", "Details", new { id=item.AutoDeInfracaoId }) |
+            @Html.ActionLink("Excluir", "Delete", new { id=item.AutoDeInfracaoId })
         </td>
     </tr>
 }

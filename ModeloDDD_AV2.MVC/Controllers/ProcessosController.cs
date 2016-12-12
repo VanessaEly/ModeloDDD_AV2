@@ -12,6 +12,10 @@ namespace ModeloDDD_AV2.MVC.Controllers
         private readonly IProcessoAppService _processoApp;
         private readonly IFornecedorAppService _fornecedorApp;
 
+        public ProcessosController()
+        {
+        }
+
 
         public ProcessosController(IProcessoAppService processoApp, IFornecedorAppService fornecedorApp)
         {
@@ -88,8 +92,8 @@ namespace ModeloDDD_AV2.MVC.Controllers
         {
             if (ModelState.IsValid)
             {
-                var processomain = Mapper.Map<ProcessoViewModel, Processo>(processo);
-                _processoApp.Update(processomain);
+                var processdomain = Mapper.Map<ProcessoViewModel, Processo>(processo);
+                _processoApp.Update(processdomain);
 
                 return RedirectToAction("Index");
 

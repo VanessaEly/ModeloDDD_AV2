@@ -1,14 +1,14 @@
 ﻿@model ModeloDDD_AV2.MVC.ViewModels.ProdutoViewModel
 
 @{
-    ViewBag.Title = "Delete";
+    ViewBag.Title = "Produto";
 }
 
-<h2>Delete</h2>
+<h2>Excluir Produto</h2>
 
-<h3>Are you sure you want to delete this?</h3>
+<h3>Tem certeza que voce quer excluir isso?</h3>
 <div>
-    <h4>ProdutoViewModel</h4>
+    <!--<h4>ProdutoViewModel</h4>-->
     <hr />
     <dl class="dl-horizontal">
         <dt>
@@ -49,8 +49,8 @@
         @Html.AntiForgeryToken()
 
         <div class="form-actions no-color">
-            <input type="submit" value="Delete" class="btn btn-default" /> |
-            @Html.ActionLink("Back to List", "Index")
+            <input type="submit" value="Excluir" class="btn btn-default" /> |
+            @Html.ActionLink("Retorno à lista", "Index")
         </div>
     }
 </div>

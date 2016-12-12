@@ -18,6 +18,8 @@ namespace ModeloDDD_AV2.Domain.Entities
         public int ProcessoId { get; set; }
         public virtual Processo Processo { get; set; }
 
+        public AutoDeInfracao(){}
+
         public decimal CalculoMulta(AutoDeInfracao autoDeInfracao, Fornecedor fornecedor)
         {
             const decimal PB = 500m;

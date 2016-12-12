@@ -1,13 +1,16 @@
 ﻿@model IEnumerable<ModeloDDD_AV2.MVC.ViewModels.ProcessoViewModel>
 
 @{
-    ViewBag.Title = "Index";
+    ViewBag.Title = "Processo";
 }
 
-<h2>Index</h2>
+<h2>Listagem de Processos</h2>
 
 <p>
     @Html.ActionLink("Criar Novo Processo", "Create")
+</p>
+<p>
+    @Html.ActionLink("Emitir Relatório de Processos", "Index")
 </p>
 <table class="table">
     <tr>
@@ -15,44 +18,52 @@
             @Html.DisplayNameFor(model => model.ProcessoId)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.DataRelato)
-        </th>
-        <th>
-            @Html.DisplayNameFor(model => model.RelatoFiscalizacao)
+            @Html.DisplayNameFor(model => model.Fornecedor)
         </th>
         <th>
             @Html.DisplayNameFor(model => model.FiscalResponsavel)
         </th>
         <th>
-            @Html.DisplayNameFor(model => model.FornecedorId)
+            @Html.DisplayNameFor(model => model.DataRelato)
         </th>
+        <th>
+            @Html.DisplayNameFor(model => model.RelatoFiscalizacao)
+        </th>
+        <!--<th>
+            @Html.DisplayNameFor(model => model.FornecedorId)
+        </th>-->
         <th></th>
     </tr>
 
-@foreach (var item in Model) {
-    <tr>
-        <td>
-            @Html.DisplayFor(modelItem => item.ProcessoId)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.DataRelato)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.RelatoFiscalizacao)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.FiscalResponsavel)
-        </td>
-        <td>
-            @Html.DisplayFor(modelItem => item.FornecedorId)
-        </td>
-        <td>
-            @Html.ActionLink("Editar", "Edit", new { id=item.ProcessoId }) |
-            @Html.ActionLink("Detalhes", "Details", new { id=item.ProcessoId }) |
-            @Html.ActionLink("Deletar", "Delete", new { id=item.ProcessoId }) |
-            @Html.ActionLink("Gerar Auto De Infração", "Create", "AutoDeInfracao")
-        </td>
-    </tr>
-}
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProcessoId)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fornecedor.RazaoSocial)
+                @Html.DisplayFor(modelItem => item.Fornecedor.Cnpj)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.FiscalResponsavel)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DataRelato)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.RelatoFiscalizacao)
+            </td>
+            <!--<td>
+                @Html.DisplayFor(modelItem => item.FornecedorId)
+            </td>-->
+            <td>
+                @Html.ActionLink("Editar", "Edit", new { id = item.ProcessoId }) |
+                @Html.ActionLink("Detalhar", "Details", new { id = item.ProcessoId }) |
+                @Html.ActionLink("Excluir", "Delete", new { id = item.ProcessoId }) |
+                @Html.ActionLink("Gerar Auto De Infração", "Create", "AutoDeInfracao")
+            </td>
+        </tr>
+    }
 
 </table>

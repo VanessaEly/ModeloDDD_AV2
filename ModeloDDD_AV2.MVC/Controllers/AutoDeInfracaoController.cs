@@ -11,15 +11,17 @@ namespace ModeloDDD_AV2.MVC.Controllers
     {
         private readonly IAutoDeInfracaoAppService _autoDeInfracaoApp;
         private readonly IProcessoAppService _processoApp;
+        private readonly IFornecedorAppService _fornecedorApp;
 
         public AutoDeInfracaoController()
         {
         }
 
-        public AutoDeInfracaoController(IAutoDeInfracaoAppService autoDeInfracaoApp, IProcessoAppService processoApp)
+        public AutoDeInfracaoController(IAutoDeInfracaoAppService autoDeInfracaoApp, IProcessoAppService processoApp, IFornecedorAppService fornecedorApp)
         {
             _autoDeInfracaoApp = autoDeInfracaoApp;
             _processoApp = processoApp;
+            _fornecedorApp = fornecedorApp;
         }
 
         // GET: AutoDeInfracao
@@ -49,7 +51,9 @@ namespace ModeloDDD_AV2.MVC.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult Create(AutoDeInfracaoViewModel autoDeInfracao)
         {
+
             var autoDeInfracaoDomain = Mapper.Map<AutoDeInfracaoViewModel, AutoDeInfracao>(autoDeInfracao);
+            //autoDeInfracaoDomain.Multa = _autoDeInfracaoApp.CalcularMulta(autoDeInfracao,fornecedor) ;
             _autoDeInfracaoApp.Add(autoDeInfracaoDomain);
 
             return RedirectToAction("Index");

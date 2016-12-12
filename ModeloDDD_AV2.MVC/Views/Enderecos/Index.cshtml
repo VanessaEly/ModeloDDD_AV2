@@ -1,13 +1,13 @@
 ﻿@model IEnumerable<ModeloDDD_AV2.MVC.ViewModels.EnderecoViewModel>
 
 @{
-    ViewBag.Title = "Index";
+    ViewBag.Title = "Endereço";
 }
 
-<h2>Index</h2>
+<h2>Listagem de Endereços</h2>
 
 <p>
-    @Html.ActionLink("Criar Novo Endereço", "Create")
+    @Html.ActionLink("Criar Novo Endereço", "Create","Fornecedores")
 </p>
 <table class="table">
     <tr>
@@ -66,8 +66,8 @@
         </td>
         <td>
             @Html.ActionLink("Editar", "Edit", new { id=item.EnderecoId }) |
-            @Html.ActionLink("Detalhes", "Details", new { id=item.EnderecoId }) |
-            @Html.ActionLink("Deletar", "Delete", new { id=item.EnderecoId })
+            @Html.ActionLink("Detalhar", "Details", new { id=item.EnderecoId }) |
+            @Html.ActionLink("Excluir", "Delete", new { id=item.EnderecoId })
         </td>
     </tr>
 }

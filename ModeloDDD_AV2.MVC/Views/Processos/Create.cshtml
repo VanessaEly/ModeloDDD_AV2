@@ -1,33 +1,37 @@
 ﻿@model ModeloDDD_AV2.MVC.ViewModels.ProcessoViewModel
 
 @{
-    ViewBag.Title = "Criar Novo Processo";
+    ViewBag.Title = "Processo";
 }
 
-<h2>Create</h2>
+<h2>Criar Novo Processo</h2>
+
 <div class="form-group">
     @Html.LabelFor(model => model.Cnpj, htmlAttributes: new { @class = "control-label col-md-2" })
     <div class="col-md-10">
-        Pesquisar CNPJ
+        <p>Pesquisar CNPJ</p>
         @using (Html.BeginForm("Create", "Processos", FormMethod.Get))
         {
             @Html.TextBox("PesquisaCnpj")
             <input type="submit" value="Pesquisar" />
         }
-    </div>
-</div>
-@using (Html.BeginForm()) 
-{
-    @Html.AntiForgeryToken()
-    
-    <div class="form-horizontal">
-        <h4>ProcessoViewModel</h4>
-        <hr />
+        <p> </p>
         <p>CNPJ: @Html.ValueFor(model => model.Cnpj)</p>
         <p>Razão Social: @Html.ValueFor(model => model.RazaoSocial)</p>
         <p>Inscrição Municipal: @Html.ValueFor(model => model.InscricaoMunicipal)</p>
+    </div>
+</div>
 
-        
+
+
+@using (Html.BeginForm())
+{
+    @Html.AntiForgeryToken()
+
+    <div class="form-horizontal">
+        <!--<h4>ProcessoViewModel</h4>-->
+        <hr />
+
         @Html.ValidationSummary(true, "", new { @class = "text-danger" })
         <div class="form-group">
             @Html.LabelFor(model => model.RelatoFiscalizacao, htmlAttributes: new { @class = "control-label col-md-2" })
@@ -70,5 +74,5 @@
 }
 
 <div>
-    @Html.ActionLink("Back to List", "Index")
+    @Html.ActionLink("Retornar à lista", "Index")
 </div>
